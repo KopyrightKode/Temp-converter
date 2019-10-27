@@ -19,3 +19,4 @@ def temp_converted():
     else:
         print("You fucked up gooby")
 temp_converted()
+print("\nThanks for using my temperature converter!")
