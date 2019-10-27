@@ -1,4 +1,4 @@
-#Temperature converted written by KopyrightKid
+#Temperature converter written by KopyrightKid
 # C = (F - 32) * 5/9
 # F = (C * 1.8) + 32
 #
